@@ -10,7 +10,7 @@ This website was independently built by me as a professional introduction page f
 
 ## 🌐 Live Preview
 
-- Demo: https://gizmo-home.netlify.app/  
+- Demo: https://forged-intro.vercel.app/
 - Official Website Reference: https://forged.build/
 
 ---
