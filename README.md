@@ -1,6 +1,6 @@
 # Forged — Professional Interactive Introduction Page
 
-**Forged Intro** is a modern, interactive study case landing page built using advanced frontend technologies to deliver high-quality visuals, smooth animations, and an immersive user experience.
+**Forged Intro** is a modern, interactive **study case landing page** built using advanced frontend technologies to deliver high-quality visuals, smooth animations, and an immersive user experience.
 
 This website was independently built by me as a professional introduction page for **[forged company](https://www.linkedin.com/company/forged-dot-build/)**. It serves as a conceptual and technical showcase aligned with their real production work at **https://forged.build/**. The project was created on my own initiative and is not affiliated with or commissioned by the company.
 
